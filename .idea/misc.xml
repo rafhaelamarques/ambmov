@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Rafhaela/.gradle/caches/transforms-3/4275bd5a81af84ef33c07d7e347ae43b/transformed/jetified-appcompat-resources-1.2.0/res/drawable/abc_vector_test.xml" value="0.4036458333333333" />
+        <entry key="..\:/repos/ambmov/ambmov/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4036458333333333" />
+        <entry key="..\:/repos/ambmov/ambmov/app/src/main/res/drawable/customborder.xml" value="0.4036458333333333" />
+        <entry key="..\:/repos/ambmov/ambmov/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4036458333333333" />
+        <entry key="..\:/repos/ambmov/ambmov/app/src/main/res/drawable/stroke_border.xml" value="0.4036458333333333" />
+        <entry key="..\:/repos/ambmov/ambmov/app/src/main/res/layout/activity_main.xml" value="0.67" />
         <entry key="..\:/repos/ambmov/app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
       </map>
     </option>
